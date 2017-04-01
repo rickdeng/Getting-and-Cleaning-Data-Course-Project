@@ -21,10 +21,15 @@ Prepared based on data set cleaned by runing the R script "run_analysis.R".
   Each person performed six activities:
   
 1 WALKING
+
 2 WALKING_UPSTAIRS
+
 3 WALKING_DOWNSTAIRS
+
 4 SITTING
+
 5 STANDING
+
 6 LAYING
 
 
