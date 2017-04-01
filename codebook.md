@@ -7,6 +7,7 @@ Prepared based on data set cleaned by runing the R script "run_analysis.R".
 
 **1. Introduction**
   The source data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
+  
 **2. Variables**
   
   *1. subject*
