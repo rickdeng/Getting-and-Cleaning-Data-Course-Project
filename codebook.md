@@ -2,6 +2,7 @@
 # CODE BOOK
 ## Data Set Code Book for Data Collected From the Accelerometers From the Samsung Galaxy S Smartphone
 April 1, 2017
+
 Prepared based on data set cleaned by runing the R script "run_analysis.R".
 
 **1. Introduction**
