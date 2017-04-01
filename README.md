@@ -2,7 +2,7 @@
 The script (run_analysis.R) is written to download the source data set and then clean as required in the course project.
 
 ## Usage
-Download run_analysis.R and run it. A txt named "cleaned_data.txt" will be saved in the folder "./UCI HAR Dataset". Please make sure you can access the source data set url properly.
+Download run_analysis.R and run it. A txt named "cleaned_data.txt" will be saved in the folder "./UCI HAR Dataset". Please make sure you can access the source data url normally.
 
 ## Steps introduction
 
@@ -47,5 +47,5 @@ By using gsub and regular expression we can substitute special character in the 
 
 ### 5 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 By using function group_by() and summarize_all() from Dplyr we can summarize the data set with the average of each variable for each acitivity and each subject
-### output cleaned data, a txt named "cleaned_data.txt" will be saved in the folder "./UCI HAR Dataset"
+### Output cleaned data, a txt named "cleaned_data.txt" will be saved in the folder "./UCI HAR Dataset"
 By using write.table() the code can output cleaned data, a txt named "cleaned_data.txt" will be saved in the folder "./UCI HAR Dataset".
