@@ -2,7 +2,7 @@
 # CODE BOOK
 ## Data Set Code Book for Data Collected From the Accelerometers From the Samsung Galaxy S Smartphone
 April 1, 2017
-Prepared by Zhidong Deng (zhidongd@gmail.com), based on data set he cleaned and got by runing the R script "run_analysis.R".
+Prepared based on data set cleaned by runing the R script "run_analysis.R".
 
 **1. Introduction**
   The source data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
@@ -13,7 +13,7 @@ Prepared by Zhidong Deng (zhidongd@gmail.com), based on data set he cleaned and 
 
 
 *2. activity*
-  Each person performed six activitiesï¼š
+  Each person performed six activitiesï¼?
 1 WALKING
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
