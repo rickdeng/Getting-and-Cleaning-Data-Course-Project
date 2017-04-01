@@ -18,7 +18,8 @@ Prepared based on data set cleaned by runing the R script "run_analysis.R".
 
 *2. activity*
 
-  Each person performed six activitiesï¼?
+  Each person performed six activities:
+  
 1 WALKING
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
